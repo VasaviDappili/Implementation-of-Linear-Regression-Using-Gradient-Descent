@@ -83,13 +83,6 @@ DATA.HEAD()
 
 ![Screenshot 2024-08-29 183415](https://github.com/user-attachments/assets/763022ca-616b-4141-942a-109ee33e0446)
 
-X VALUE 
-
-![image](https://github.com/user-attachments/assets/83d89cce-8fa6-491b-9c3f-6c18f2c63c3c)
-
-X1_SCALED VALUE 
-
-![image](https://github.com/user-attachments/assets/0920d359-e997-46a2-844c-740ef89f149a)
 
 PREDICTED VALUES:
 
